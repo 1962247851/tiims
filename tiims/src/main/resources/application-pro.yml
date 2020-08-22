@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: --------------
+    username: -----------
+    password: -----------
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+
+logging:
+  level:
+    root: warn
+    com.example.tiims: info
+  file:
+    name: tiims_pro.log

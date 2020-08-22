@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21af29"],{be4d:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"text-center",staticStyle:{"margin-top":"10%"}},[n("p",[t._v("页面不见了哦")]),n("p",[t._v("404. 抱歉，您访问的资源不存在。")]),n("a",{on:{click:function(e){return t.$router.back()}}},[t._v("返回上一级/首页")])])},c=[],r={name:"NotFound"},o=r,u=n("2877"),i=Object(u["a"])(o,a,c,!1,null,"4e6300af",null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d21af29.fbb4d318.js.map
